@@ -1,8 +1,9 @@
 #include<stdio.h>
+#include<stdlib.h>
 int main()
 {
     char str[1000], rev[1000];
-    int i, j, count = 0;
+    int i, j,count = 0;
     printf("Enter the string:");
     scanf("%s", str);
 
