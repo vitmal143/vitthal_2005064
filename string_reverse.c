@@ -5,7 +5,7 @@ int main()
     char str[1000], rev[1000];
     int i, j,count = 0;
     printf("Enter the string:");
-    scanf("%s", str);
+    scanf("%6s", str);
 
     while (str[count] != '\0')
     {
